@@ -7,7 +7,7 @@ const Header = () => {
         <header>
             <div className="jumbotron jumbotron-fluid bg-info text-white text-center">
                 <div className="container">
-                    <h1 className="display-4">dshilkret ReactJS CRUD Boilerplate</h1>
+                    <h1 className="display-4">dshilkret - Git ReactJS CRUD Boilerplate</h1>
                     <p className="lead">with mock backend</p>
                 </div>
             </div>
